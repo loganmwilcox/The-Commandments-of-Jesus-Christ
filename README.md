@@ -8,7 +8,7 @@
 
 ## What this edition corrects
 
-The earlier study edition preserved the command catalog and commentary but left the reader to look up nearly every biblical and historical source. This revision embeds the actual cited biblical passages, replaces bare patristic references with substantive excerpts, adds direct public-domain excerpts from the Lutheran Confessions, and supplies study questions and prayers for sustained theological and devotional use.
+Earlier versions of this content preserved the command catalog and commentary but left the reader to look up nearly every biblical and historical source. This revision embeds the actual cited biblical passages, replaces bare patristic references with substantive excerpts, adds direct public-domain excerpts from the Lutheran Confessions, and supplies study questions and prayers for sustained theological and devotional use.
 
 ## Translation and quotation policy
 
